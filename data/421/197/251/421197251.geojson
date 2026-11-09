@@ -592,8 +592,7 @@
     "wof:belongsto":[
         102191573,
         85632269,
-        85675291,
-        421204117
+        85675291
     ],
     "wof:breaches":[],
     "wof:capital_of":[
@@ -620,7 +619,6 @@
         {
             "continent_id":102191573,
             "country_id":85632269,
-            "county_id":421204117,
             "locality_id":421197251,
             "region_id":85675291
         }
@@ -629,7 +627,7 @@
     "wof:lastmodified":1690848319,
     "wof:megacity":1,
     "wof:name":"Niamey",
-    "wof:parent_id":421204117,
+    "wof:parent_id":85675291,
     "wof:placetype":"locality",
     "wof:population":1026848,
     "wof:population_rank":12,

@@ -33,8 +33,7 @@
     "wof:belongsto":[
         102191573,
         85632269,
-        85675291,
-        421204117
+        85675291
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +45,6 @@
         {
             "continent_id":102191573,
             "country_id":85632269,
-            "county_id":421204117,
             "locality_id":1276533917,
             "region_id":85675291
         }
@@ -54,7 +52,7 @@
     "wof:id":1276533917,
     "wof:lastmodified":1566648426,
     "wof:name":"Guinguinde",
-    "wof:parent_id":421204117,
+    "wof:parent_id":85675291,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-ne",
     "wof:superseded_by":[],
