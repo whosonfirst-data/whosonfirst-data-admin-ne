@@ -47,7 +47,7 @@
         "gn:id":6271014
     },
     "wof:country":"NE",
-    "wof:geomhash":"f4c8f852a45ae3ca16967b467c47598c",
+    "wof:geomhash":"ccaed82cd8d0d5d0d83599fe822b3b4e",
     "wof:hierarchy":[
         {
             "country_id":85632269,
@@ -70,5 +70,5 @@
     7.28056,
     18.71417000000001
 ],
-  "geometry": {"coordinates":[7.28056,18.71417000000001],"type":"Point"}
+  "geometry": {"coordinates":[7.28056,18.71417],"type":"Point"}
 }

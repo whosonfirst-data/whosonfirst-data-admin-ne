@@ -48,7 +48,7 @@
         "wk:page":"Aouderas"
     },
     "wof:country":"NE",
-    "wof:geomhash":"4a6552a02270e7f7056d264e3850e74a",
+    "wof:geomhash":"6404cedf8f46e26d69d4b0c35a0079df",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -74,5 +74,5 @@
     8.4128,
     17.62599999999999
 ],
-  "geometry": {"coordinates":[8.4128,17.62599999999999],"type":"Point"}
+  "geometry": {"coordinates":[8.4128,17.626],"type":"Point"}
 }

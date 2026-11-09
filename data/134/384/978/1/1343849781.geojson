@@ -41,7 +41,7 @@
         "gn:id":2438964
     },
     "wof:country":"NE",
-    "wof:geomhash":"a5ba568967a3130042e8a8476b3d1366",
+    "wof:geomhash":"e6b318559a7154dca64f97c2f781623e",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     10.0,
     13.73333
 ],
-  "geometry": {"coordinates":[10.0,13.73333],"type":"Point"}
+  "geometry": {"coordinates":[10,13.73333],"type":"Point"}
 }

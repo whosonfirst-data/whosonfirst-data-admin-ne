@@ -54,7 +54,7 @@
         "wk:page":"Assamakka"
     },
     "wof:country":"NE",
-    "wof:geomhash":"bbe379bf2832cc11e25e3332ea591494",
+    "wof:geomhash":"e59459febf2d6217fec8e0a519640c7d",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -80,5 +80,5 @@
     5.8,
     19.36667000000001
 ],
-  "geometry": {"coordinates":[5.8,19.36667000000001],"type":"Point"}
+  "geometry": {"coordinates":[5.8,19.36667],"type":"Point"}
 }
