@@ -1,0 +1,74 @@
+{
+  "id": 9895050434,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.684,15.85,4.684,15.85",
+    "geom:latitude":15.85,
+    "geom:longitude":4.684,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12718489: name \"Aderzagren\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12718489"
+        },
+        {
+            "citation":"GeoNames populated place 12718489: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12718489"
+        },
+        {
+            "citation":"GeoNames populated place 12718489: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12718489"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051813 (Tchin Tabaradene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12718489
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"f96292de8267d792c698316477c296a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":9895050434,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050434,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Aderzagren",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.684,
+    15.85,
+    4.684,
+    15.85
+],
+  "geometry": {"coordinates":[4.684,15.85],"type":"Point"}
+}

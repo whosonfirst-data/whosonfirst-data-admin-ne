@@ -1,0 +1,74 @@
+{
+  "id": 9895050328,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.3419,12.9808,1.3419,12.9808",
+    "geom:latitude":12.9808,
+    "geom:longitude":1.3419,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12195615: name \"Koutougou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12195615"
+        },
+        {
+            "citation":"GeoNames populated place 12195615: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12195615"
+        },
+        {
+            "citation":"GeoNames populated place 12195615: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12195615"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051103 (Say), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675265,
+        102191573,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12195615
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7d2cb62d5c29b172b2209c8901ab543e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":9895050328,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":9895050328,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Koutougou",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.3419,
+    12.9808,
+    1.3419,
+    12.9808
+],
+  "geometry": {"coordinates":[1.3419,12.9808],"type":"Point"}
+}

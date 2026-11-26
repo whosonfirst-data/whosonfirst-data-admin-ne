@@ -1,0 +1,74 @@
+{
+  "id": 9895050406,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.40846,14.94427,4.40846,14.94427",
+    "geom:latitude":14.94427,
+    "geom:longitude":4.40846,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12503592: name \"Soukoudou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12503592"
+        },
+        {
+            "citation":"GeoNames populated place 12503592: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12503592"
+        },
+        {
+            "citation":"GeoNames populated place 12503592: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12503592"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051609 (Tahoua), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12503592
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"e6096962ab9cc9a44a5f3ea85f1fa789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051609,
+            "locality_id":9895050406,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050406,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Soukoudou",
+    "wof:parent_id":1092051609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.40846,
+    14.94427,
+    4.40846,
+    14.94427
+],
+  "geometry": {"coordinates":[4.40846,14.94427],"type":"Point"}
+}

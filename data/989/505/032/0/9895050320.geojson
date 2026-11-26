@@ -1,0 +1,74 @@
+{
+  "id": 9895050320,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.58609,12.99779,1.58609,12.99779",
+    "geom:latitude":12.99779,
+    "geom:longitude":1.58609,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12172741: name \"Singuitondi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12172741"
+        },
+        {
+            "citation":"GeoNames populated place 12172741: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12172741"
+        },
+        {
+            "citation":"GeoNames populated place 12172741: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12172741"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051103 (Say), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675265,
+        102191573,
+        1092051103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12172741
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8c76205629dab971df99fdbaa0f6a729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051103,
+            "locality_id":9895050320,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":9895050320,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Singuitondi",
+    "wof:parent_id":1092051103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.58609,
+    12.99779,
+    1.58609,
+    12.99779
+],
+  "geometry": {"coordinates":[1.58609,12.99779],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050370,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.9155,15.2957,4.9155,15.2957",
+    "geom:latitude":15.2957,
+    "geom:longitude":4.9155,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493238: name \"Amalawa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493238"
+        },
+        {
+            "citation":"GeoNames populated place 12493238: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493238"
+        },
+        {
+            "citation":"GeoNames populated place 12493238: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493238"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051813 (Tchin Tabaradene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493238
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"41ba625bbe79eabce0d589846cdc0cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":9895050370,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050370,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Amalawa",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.9155,
+    15.2957,
+    4.9155,
+    15.2957
+],
+  "geometry": {"coordinates":[4.9155,15.2957],"type":"Point"}
+}

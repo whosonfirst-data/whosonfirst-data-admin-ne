@@ -1,0 +1,74 @@
+{
+  "id": 9895050334,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"13.2867,14.3359,13.2867,14.3359",
+    "geom:latitude":14.3359,
+    "geom:longitude":13.2867,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12233217: name \"Bijouram\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12233217"
+        },
+        {
+            "citation":"GeoNames populated place 12233217: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12233217"
+        },
+        {
+            "citation":"GeoNames populated place 12233217: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12233217"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051781 (N'Guigmi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675269,
+        102191573,
+        1092051781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12233217
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cf502b0a37ad06f59094a4f5e5f7d39d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051781,
+            "locality_id":9895050334,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":9895050334,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Bijouram",
+    "wof:parent_id":1092051781,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    13.2867,
+    14.3359,
+    13.2867,
+    14.3359
+],
+  "geometry": {"coordinates":[13.2867,14.3359],"type":"Point"}
+}

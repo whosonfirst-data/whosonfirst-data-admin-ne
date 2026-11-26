@@ -1,0 +1,74 @@
+{
+  "id": 9895050460,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"2.43,13.12,2.43,13.12",
+    "geom:latitude":13.12,
+    "geom:longitude":2.43,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13589083: name \"Koulaye Fari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13589083"
+        },
+        {
+            "citation":"GeoNames populated place 13589083: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13589083"
+        },
+        {
+            "citation":"GeoNames populated place 13589083: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13589083"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421182275 (Kollo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675265,
+        102191573,
+        421182275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13589083
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5db684ebb4b9c58ea18e56c824e96399",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182275,
+            "locality_id":9895050460,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":9895050460,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Koulaye Fari",
+    "wof:parent_id":421182275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    2.43,
+    13.12,
+    2.43,
+    13.12
+],
+  "geometry": {"coordinates":[2.43,13.12],"type":"Point"}
+}

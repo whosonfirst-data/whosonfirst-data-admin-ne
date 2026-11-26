@@ -1,0 +1,74 @@
+{
+  "id": 9895050290,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4274,15.6216,6.4274,15.6216",
+    "geom:latitude":15.6216,
+    "geom:longitude":6.4274,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2445296: name \"Ekisman\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2445296"
+        },
+        {
+            "citation":"GeoNames populated place 2445296: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2445296"
+        },
+        {
+            "citation":"GeoNames populated place 2445296: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2445296"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051813 (Tchin Tabaradene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2445296
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"65bcdc698d6da6a79321acf7d9c1047d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":9895050290,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050290,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Ekisman",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4274,
+    15.6216,
+    6.4274,
+    15.6216
+],
+  "geometry": {"coordinates":[6.4274,15.6216],"type":"Point"}
+}

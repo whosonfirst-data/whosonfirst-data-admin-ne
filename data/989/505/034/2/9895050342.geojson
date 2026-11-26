@@ -1,0 +1,74 @@
+{
+  "id": 9895050342,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.5756,15.5853,5.5756,15.5853",
+    "geom:latitude":15.5853,
+    "geom:longitude":5.5756,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12420972: name \"Droum\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12420972"
+        },
+        {
+            "citation":"GeoNames populated place 12420972: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12420972"
+        },
+        {
+            "citation":"GeoNames populated place 12420972: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12420972"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051813 (Tchin Tabaradene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12420972
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5c19387968fe02032b20ab1ce25765dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":9895050342,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050342,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Droum",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.5756,
+    15.5853,
+    5.5756,
+    15.5853
+],
+  "geometry": {"coordinates":[5.5756,15.5853],"type":"Point"}
+}

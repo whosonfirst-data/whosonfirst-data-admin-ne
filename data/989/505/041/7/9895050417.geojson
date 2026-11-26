@@ -1,0 +1,74 @@
+{
+  "id": 9895050417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.6424,17.7457,7.6424,17.7457",
+    "geom:latitude":17.7457,
+    "geom:longitude":7.6424,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12522706: name \"Tagaza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12522706"
+        },
+        {
+            "citation":"GeoNames populated place 12522706: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12522706"
+        },
+        {
+            "citation":"GeoNames populated place 12522706: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12522706"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421182277 (Tchighozerine), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675273,
+        102191573,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12522706
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bece6a5d9e74353bb45bc302d6b056dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":9895050417,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":9895050417,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Tagaza",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.6424,
+    17.7457,
+    7.6424,
+    17.7457
+],
+  "geometry": {"coordinates":[7.6424,17.7457],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050298,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"1.20714,15.00499,1.20714,15.00499",
+    "geom:latitude":15.00499,
+    "geom:longitude":1.20714,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11906118: name \"Tezguene\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11906118"
+        },
+        {
+            "citation":"GeoNames populated place 11906118: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11906118"
+        },
+        {
+            "citation":"GeoNames populated place 11906118: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11906118"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890429081 (Tillaberi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675265,
+        102191573,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11906118
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"44ef1eaf32b8dec25f633bcc4d253038",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":9895050298,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":9895050298,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Tezguene",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    1.20714,
+    15.00499,
+    1.20714,
+    15.00499
+],
+  "geometry": {"coordinates":[1.20714,15.00499],"type":"Point"}
+}

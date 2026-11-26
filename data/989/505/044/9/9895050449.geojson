@@ -1,0 +1,74 @@
+{
+  "id": 9895050449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.65067,12.30106,3.65067,12.30106",
+    "geom:latitude":12.30106,
+    "geom:longitude":3.65067,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13286558: name \"Birni N'Debi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13286558"
+        },
+        {
+            "citation":"GeoNames populated place 13286558: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13286558"
+        },
+        {
+            "citation":"GeoNames populated place 13286558: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13286558"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092050969 (Gaya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675287,
+        102191573,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13286558
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"558d5053fec8de19cba562dcd92263ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":9895050449,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":9895050449,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Birni N'Debi",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.65067,
+    12.30106,
+    3.65067,
+    12.30106
+],
+  "geometry": {"coordinates":[3.65067,12.30106],"type":"Point"}
+}

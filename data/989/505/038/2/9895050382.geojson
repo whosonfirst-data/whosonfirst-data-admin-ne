@@ -1,0 +1,74 @@
+{
+  "id": 9895050382,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"7.01703,13.06857,7.01703,13.06857",
+    "geom:latitude":13.06857,
+    "geom:longitude":7.01703,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12494040: name \"Garantchi Dogon Marke\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12494040"
+        },
+        {
+            "citation":"GeoNames populated place 12494040: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12494040"
+        },
+        {
+            "citation":"GeoNames populated place 12494040: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12494040"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051007 (Madarounfa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675281,
+        102191573,
+        1092051007
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12494040
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"957eda6a6b00f59a4138886e09b524b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051007,
+            "locality_id":9895050382,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":9895050382,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Garantchi Dogon Marke",
+    "wof:parent_id":1092051007,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    7.01703,
+    13.06857,
+    7.01703,
+    13.06857
+],
+  "geometry": {"coordinates":[7.01703,13.06857],"type":"Point"}
+}

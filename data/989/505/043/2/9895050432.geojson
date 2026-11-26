@@ -1,0 +1,74 @@
+{
+  "id": 9895050432,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.3945,13.8738,5.3945,13.8738",
+    "geom:latitude":13.8738,
+    "geom:longitude":5.3945,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640609: name \"Tounga Kouka\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640609"
+        },
+        {
+            "citation":"GeoNames populated place 12640609: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640609"
+        },
+        {
+            "citation":"GeoNames populated place 12640609: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640609"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051301 (Birni N'Konni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640609
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"3edd616b1f2a7e75658d72e98b17e8c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":9895050432,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050432,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Tounga Kouka",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.3945,
+    13.8738,
+    5.3945,
+    13.8738
+],
+  "geometry": {"coordinates":[5.3945,13.8738],"type":"Point"}
+}

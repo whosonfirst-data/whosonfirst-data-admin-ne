@@ -1,0 +1,74 @@
+{
+  "id": 9895050375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"9.34836,12.86912,9.34836,12.86912",
+    "geom:latitude":12.86912,
+    "geom:longitude":9.34836,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493480: name \"Moutoun Da Aboki\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493480"
+        },
+        {
+            "citation":"GeoNames populated place 12493480: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493480"
+        },
+        {
+            "citation":"GeoNames populated place 12493480: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493480"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051133 (Magaria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675285,
+        102191573,
+        1092051133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493480
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"bca27a35cfce5ca80e873a10dc309f98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051133,
+            "locality_id":9895050375,
+            "region_id":85675285
+        }
+    ],
+    "wof:id":9895050375,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Moutoun Da Aboki",
+    "wof:parent_id":1092051133,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    9.34836,
+    12.86912,
+    9.34836,
+    12.86912
+],
+  "geometry": {"coordinates":[9.34836,12.86912],"type":"Point"}
+}

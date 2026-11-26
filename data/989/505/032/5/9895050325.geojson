@@ -1,0 +1,75 @@
+{
+  "id": 9895050325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.61908,14.70816,6.61908,14.70816",
+    "geom:latitude":14.70816,
+    "geom:longitude":6.61908,
+    "gn:population":2702,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12189069: name \"Bermo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12189069"
+        },
+        {
+            "citation":"GeoNames populated place 12189069: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12189069"
+        },
+        {
+            "citation":"GeoNames populated place 12189069: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12189069"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051663 (Dakoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675281,
+        102191573,
+        1092051663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12189069
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"78f45c7935dbc2b18b92455bdd4a133e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051663,
+            "locality_id":9895050325,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":9895050325,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Bermo",
+    "wof:parent_id":1092051663,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.61908,
+    14.70816,
+    6.61908,
+    14.70816
+],
+  "geometry": {"coordinates":[6.61908,14.70816],"type":"Point"}
+}

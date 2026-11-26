@@ -1,0 +1,74 @@
+{
+  "id": 9895050360,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.75025,13.28165,6.75025,13.28165",
+    "geom:latitude":13.28165,
+    "geom:longitude":6.75025,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12491997: name \"Zongon Kano\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12491997"
+        },
+        {
+            "citation":"GeoNames populated place 12491997: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12491997"
+        },
+        {
+            "citation":"GeoNames populated place 12491997: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12491997"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051229 (Guidan roumji), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675281,
+        102191573,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12491997
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"cc994f141ff2c64466847f1cebe0097a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":9895050360,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":9895050360,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Zongon Kano",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.75025,
+    13.28165,
+    6.75025,
+    13.28165
+],
+  "geometry": {"coordinates":[6.75025,13.28165],"type":"Point"}
+}

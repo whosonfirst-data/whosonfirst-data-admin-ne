@@ -1,0 +1,74 @@
+{
+  "id": 9895050428,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"4.82697,15.22712,4.82697,15.22712",
+    "geom:latitude":15.22712,
+    "geom:longitude":4.82697,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12640153: name \"Maggia\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12640153"
+        },
+        {
+            "citation":"GeoNames populated place 12640153: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12640153"
+        },
+        {
+            "citation":"GeoNames populated place 12640153: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12640153"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051813 (Tchin Tabaradene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12640153
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"7335adee7372c194fc3843cd70d0ec7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":9895050428,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050428,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Maggia",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    4.82697,
+    15.22712,
+    4.82697,
+    15.22712
+],
+  "geometry": {"coordinates":[4.82697,15.22712],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050418,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.0444,13.5702,3.0444,13.5702",
+    "geom:latitude":13.5702,
+    "geom:longitude":3.0444,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12522782: name \"Koubou Kouara Djerma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12522782"
+        },
+        {
+            "citation":"GeoNames populated place 12522782: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12522782"
+        },
+        {
+            "citation":"GeoNames populated place 12522782: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12522782"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051075 (Birni N'Gaoure), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675287,
+        102191573,
+        1092051075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12522782
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1c33279091dc1df3217240e2a5255942",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051075,
+            "locality_id":9895050418,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":9895050418,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Koubou Kouara Djerma",
+    "wof:parent_id":1092051075,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.0444,
+    13.5702,
+    3.0444,
+    13.5702
+],
+  "geometry": {"coordinates":[3.0444,13.5702],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050454,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.34969,12.01222,3.34969,12.01222",
+    "geom:latitude":12.01222,
+    "geom:longitude":3.34969,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527238: name \"Banikoubey\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527238"
+        },
+        {
+            "citation":"GeoNames populated place 13527238: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527238"
+        },
+        {
+            "citation":"GeoNames populated place 13527238: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527238"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092050969 (Gaya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675287,
+        102191573,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527238
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"17bf60d0260304c27db5684e51053f0b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":9895050454,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":9895050454,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Banikoubey",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.34969,
+    12.01222,
+    3.34969,
+    12.01222
+],
+  "geometry": {"coordinates":[3.34969,12.01222],"type":"Point"}
+}

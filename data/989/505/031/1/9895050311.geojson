@@ -1,0 +1,74 @@
+{
+  "id": 9895050311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.08208,15.70844,5.08208,15.70844",
+    "geom:latitude":15.70844,
+    "geom:longitude":5.08208,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12156375: name \"Akayasso\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12156375"
+        },
+        {
+            "citation":"GeoNames populated place 12156375: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12156375"
+        },
+        {
+            "citation":"GeoNames populated place 12156375: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12156375"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051813 (Tchin Tabaradene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12156375
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5c00a06b31e818b61b38f6aed347cbb2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":9895050311,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050311,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Akayasso",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.08208,
+    15.70844,
+    5.08208,
+    15.70844
+],
+  "geometry": {"coordinates":[5.08208,15.70844],"type":"Point"}
+}
