@@ -1,0 +1,72 @@
+{
+  "id": 9895092443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.21349,14.6843,0.21349,14.6843",
+    "geom:latitude":14.6843,
+    "geom:longitude":0.21349,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12276854: name \"Kel-Tafad\u00e8s\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12276854"
+        },
+        {
+            "citation":"GeoNames populated place 12276854: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12276854"
+        },
+        {
+            "citation":"GeoNames populated place 12276854: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12276854"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85675265 (Tillab\u00e9ri), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675265,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12276854
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8b79063b51931551931075d3af2b25c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "locality_id":9895092443,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":9895092443,
+    "wof:lastmodified":1795746186,
+    "wof:name":"Kel-Tafad\u00e8s",
+    "wof:parent_id":85675265,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.21349,
+    14.6843,
+    0.21349,
+    14.6843
+],
+  "geometry": {"coordinates":[0.21349,14.6843],"type":"Point"}
+}

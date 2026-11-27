@@ -1,0 +1,74 @@
+{
+  "id": 9895050310,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"12.36001,13.17594,12.36001,13.17594",
+    "geom:latitude":13.17594,
+    "geom:longitude":12.36001,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12129122: name \"Koubl\u00e9 N'Gourtoua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12129122"
+        },
+        {
+            "citation":"GeoNames populated place 12129122: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12129122"
+        },
+        {
+            "citation":"GeoNames populated place 12129122: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12129122"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051245 (Diffa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675269,
+        102191573,
+        1092051245
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12129122
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"0b109de6435e6d80d084908f6a85418b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051245,
+            "locality_id":9895050310,
+            "region_id":85675269
+        }
+    ],
+    "wof:id":9895050310,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Koubl\u00e9 N'Gourtoua",
+    "wof:parent_id":1092051245,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    12.36001,
+    13.17594,
+    12.36001,
+    13.17594
+],
+  "geometry": {"coordinates":[12.36001,13.17594],"type":"Point"}
+}

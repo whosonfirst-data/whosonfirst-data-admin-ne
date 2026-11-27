@@ -1,0 +1,74 @@
+{
+  "id": 9895050336,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.34833,13.67849,6.34833,13.67849",
+    "geom:latitude":13.67849,
+    "geom:longitude":6.34833,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12358629: name \"Gouigoui\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12358629"
+        },
+        {
+            "citation":"GeoNames populated place 12358629: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12358629"
+        },
+        {
+            "citation":"GeoNames populated place 12358629: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12358629"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051229 (Guidan roumji), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675281,
+        102191573,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12358629
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"a4b759edff13495da79ed9e146f84be1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":9895050336,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":9895050336,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Gouigoui",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.34833,
+    13.67849,
+    6.34833,
+    13.67849
+],
+  "geometry": {"coordinates":[6.34833,13.67849],"type":"Point"}
+}

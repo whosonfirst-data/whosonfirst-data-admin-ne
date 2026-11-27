@@ -1,0 +1,74 @@
+{
+  "id": 9895050295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"14.09079,22.65322,14.09079,22.65322",
+    "geom:latitude":22.65322,
+    "geom:longitude":14.09079,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11857046: name \"Tummo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11857046"
+        },
+        {
+            "citation":"GeoNames populated place 11857046: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11857046"
+        },
+        {
+            "citation":"GeoNames populated place 11857046: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11857046"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051881 (Bilma), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675273,
+        102191573,
+        1092051881
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11857046
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c8fb144a075c6e7f67959ed83dd7a6c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051881,
+            "locality_id":9895050295,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":9895050295,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Tummo",
+    "wof:parent_id":1092051881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    14.09079,
+    22.65322,
+    14.09079,
+    22.65322
+],
+  "geometry": {"coordinates":[14.09079,22.65322],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050322,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.10914,12.17793,3.10914,12.17793",
+    "geom:latitude":12.17793,
+    "geom:longitude":3.10914,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12176080: name \"Katanga\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12176080"
+        },
+        {
+            "citation":"GeoNames populated place 12176080: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12176080"
+        },
+        {
+            "citation":"GeoNames populated place 12176080: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12176080"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051041 (Dosso), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675287,
+        102191573,
+        1092051041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12176080
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"8e8eb883f07c2d1c46980f5b644aa0db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051041,
+            "locality_id":9895050322,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":9895050322,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Katanga",
+    "wof:parent_id":1092051041,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.10914,
+    12.17793,
+    3.10914,
+    12.17793
+],
+  "geometry": {"coordinates":[3.10914,12.17793],"type":"Point"}
+}

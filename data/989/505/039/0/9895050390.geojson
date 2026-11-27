@@ -1,0 +1,74 @@
+{
+  "id": 9895050390,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.27494,12.02083,3.27494,12.02083",
+    "geom:latitude":12.02083,
+    "geom:longitude":3.27494,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12495375: name \"Rounto Tanda\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12495375"
+        },
+        {
+            "citation":"GeoNames populated place 12495375: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12495375"
+        },
+        {
+            "citation":"GeoNames populated place 12495375: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12495375"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092050969 (Gaya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675287,
+        102191573,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12495375
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d9bf0ff211e39b2805071e44b98f13f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":9895050390,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":9895050390,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Rounto Tanda",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.27494,
+    12.02083,
+    3.27494,
+    12.02083
+],
+  "geometry": {"coordinates":[3.27494,12.02083],"type":"Point"}
+}

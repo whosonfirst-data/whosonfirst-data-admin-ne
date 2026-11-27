@@ -1,0 +1,74 @@
+{
+  "id": 9895050443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.707,13.42936,6.707,13.42936",
+    "geom:latitude":13.42936,
+    "geom:longitude":6.707,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12750443: name \"Rougga Hardo Soho\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12750443"
+        },
+        {
+            "citation":"GeoNames populated place 12750443: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12750443"
+        },
+        {
+            "citation":"GeoNames populated place 12750443: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12750443"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051229 (Guidan roumji), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675281,
+        102191573,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12750443
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"81f518efdf5bd22627a1f1601495ed08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":9895050443,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":9895050443,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Rougga Hardo Soho",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.707,
+    13.42936,
+    6.707,
+    13.42936
+],
+  "geometry": {"coordinates":[6.707,13.42936],"type":"Point"}
+}

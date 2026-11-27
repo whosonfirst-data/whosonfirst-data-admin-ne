@@ -1,0 +1,74 @@
+{
+  "id": 9895050419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"0.79,14.92,0.79,14.92",
+    "geom:latitude":14.92,
+    "geom:longitude":0.79,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12534814: name \"Bangoume\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12534814"
+        },
+        {
+            "citation":"GeoNames populated place 12534814: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12534814"
+        },
+        {
+            "citation":"GeoNames populated place 12534814: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12534814"
+        },
+        {
+            "citation":"The hierarchy of WOF county 890429081 (Tillaberi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675265,
+        102191573,
+        890429081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12534814
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"6ad61e1778270df76fedc4b77790a2c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":890429081,
+            "locality_id":9895050419,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":9895050419,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Bangoume",
+    "wof:parent_id":890429081,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.79,
+    14.92,
+    0.79,
+    14.92
+],
+  "geometry": {"coordinates":[0.79,14.92],"type":"Point"}
+}

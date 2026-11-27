@@ -1,0 +1,74 @@
+{
+  "id": 9895050362,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4608,13.6359,6.4608,13.6359",
+    "geom:latitude":13.6359,
+    "geom:longitude":6.4608,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492632: name \"Zangon Chine\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492632"
+        },
+        {
+            "citation":"GeoNames populated place 12492632: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492632"
+        },
+        {
+            "citation":"GeoNames populated place 12492632: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492632"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051229 (Guidan roumji), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675281,
+        102191573,
+        1092051229
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492632
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"375db90967137e3c5998d42e45ba332c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051229,
+            "locality_id":9895050362,
+            "region_id":85675281
+        }
+    ],
+    "wof:id":9895050362,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Zangon Chine",
+    "wof:parent_id":1092051229,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4608,
+    13.6359,
+    6.4608,
+    13.6359
+],
+  "geometry": {"coordinates":[6.4608,13.6359],"type":"Point"}
+}

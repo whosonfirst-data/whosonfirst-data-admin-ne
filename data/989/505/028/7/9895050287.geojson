@@ -1,0 +1,74 @@
+{
+  "id": 9895050287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.4293,14.8844,6.4293,14.8844",
+    "geom:latitude":14.8844,
+    "geom:longitude":6.4293,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2440826: name \"Mayata\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2440826"
+        },
+        {
+            "citation":"GeoNames populated place 2440826: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2440826"
+        },
+        {
+            "citation":"GeoNames populated place 2440826: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2440826"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051577 (Keita), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2440826
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"01b4c535aa85cdacd3df72862880ea72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051577,
+            "locality_id":9895050287,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050287,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Mayata",
+    "wof:parent_id":1092051577,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.4293,
+    14.8844,
+    6.4293,
+    14.8844
+],
+  "geometry": {"coordinates":[6.4293,14.8844],"type":"Point"}
+}

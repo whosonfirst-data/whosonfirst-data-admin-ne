@@ -1,0 +1,74 @@
+{
+  "id": 9895050396,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"5.32189,13.81291,5.32189,13.81291",
+    "geom:latitude":13.81291,
+    "geom:longitude":5.32189,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12495517: name \"Botoro\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12495517"
+        },
+        {
+            "citation":"GeoNames populated place 12495517: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12495517"
+        },
+        {
+            "citation":"GeoNames populated place 12495517: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12495517"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051301 (Birni N'Konni), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051301
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12495517
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"d5ffac2c74287b0556f55ad632d481a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051301,
+            "locality_id":9895050396,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050396,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Botoro",
+    "wof:parent_id":1092051301,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    5.32189,
+    13.81291,
+    5.32189,
+    13.81291
+],
+  "geometry": {"coordinates":[5.32189,13.81291],"type":"Point"}
+}

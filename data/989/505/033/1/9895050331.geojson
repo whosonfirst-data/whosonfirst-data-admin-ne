@@ -1,0 +1,74 @@
+{
+  "id": 9895050331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.38,15.03,6.38,15.03",
+    "geom:latitude":15.03,
+    "geom:longitude":6.38,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12204982: name \"Azeye\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12204982"
+        },
+        {
+            "citation":"GeoNames populated place 12204982: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12204982"
+        },
+        {
+            "citation":"GeoNames populated place 12204982: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12204982"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051813 (Tchin Tabaradene), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675297,
+        102191573,
+        1092051813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12204982
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"713fb8e09fdedc5d8996c65cf1b11c16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051813,
+            "locality_id":9895050331,
+            "region_id":85675297
+        }
+    ],
+    "wof:id":9895050331,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Azeye",
+    "wof:parent_id":1092051813,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.38,
+    15.03,
+    6.38,
+    15.03
+],
+  "geometry": {"coordinates":[6.38,15.03],"type":"Point"}
+}

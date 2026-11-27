@@ -1,0 +1,74 @@
+{
+  "id": 9895050349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.53162,13.88024,3.53162,13.88024",
+    "geom:latitude":13.88024,
+    "geom:longitude":3.53162,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12489647: name \"Tagalanfag Djibo Koira\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12489647"
+        },
+        {
+            "citation":"GeoNames populated place 12489647: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12489647"
+        },
+        {
+            "citation":"GeoNames populated place 12489647: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12489647"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092051695 (Filingue), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675265,
+        102191573,
+        1092051695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12489647
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"5400fca73e18fa60864229682ce01ddc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092051695,
+            "locality_id":9895050349,
+            "region_id":85675265
+        }
+    ],
+    "wof:id":9895050349,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Tagalanfag Djibo Koira",
+    "wof:parent_id":1092051695,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.53162,
+    13.88024,
+    3.53162,
+    13.88024
+],
+  "geometry": {"coordinates":[3.53162,13.88024],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895050340,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"6.76287,15.82036,6.76287,15.82036",
+    "geom:latitude":15.82036,
+    "geom:longitude":6.76287,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12402362: name \"Tamaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12402362"
+        },
+        {
+            "citation":"GeoNames populated place 12402362: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12402362"
+        },
+        {
+            "citation":"GeoNames populated place 12402362: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12402362"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421182277 (Tchighozerine), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675273,
+        102191573,
+        421182277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12402362
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"1497cdc0b3b7a8b32e8838400240847c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":421182277,
+            "locality_id":9895050340,
+            "region_id":85675273
+        }
+    ],
+    "wof:id":9895050340,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Tamaya",
+    "wof:parent_id":421182277,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    6.76287,
+    15.82036,
+    6.76287,
+    15.82036
+],
+  "geometry": {"coordinates":[6.76287,15.82036],"type":"Point"}
+}

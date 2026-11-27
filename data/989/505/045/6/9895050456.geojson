@@ -1,0 +1,74 @@
+{
+  "id": 9895050456,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"3.61298,12.15122,3.61298,12.15122",
+    "geom:latitude":12.15122,
+    "geom:longitude":3.61298,
+    "iso:country":"NE",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13527246: name \"Garin Alou\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13527246"
+        },
+        {
+            "citation":"GeoNames populated place 13527246: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13527246"
+        },
+        {
+            "citation":"GeoNames populated place 13527246: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13527246"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1092050969 (Gaya), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632269,
+        85675287,
+        102191573,
+        1092050969
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13527246
+    },
+    "wof:country":"NE",
+    "wof:geomhash":"c3dc4b6e6d6bdd1e9a84e6983cf46c8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632269,
+            "county_id":1092050969,
+            "locality_id":9895050456,
+            "region_id":85675287
+        }
+    ],
+    "wof:id":9895050456,
+    "wof:lastmodified":1795735073,
+    "wof:name":"Garin Alou",
+    "wof:parent_id":1092050969,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-ne",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    3.61298,
+    12.15122,
+    3.61298,
+    12.15122
+],
+  "geometry": {"coordinates":[3.61298,12.15122],"type":"Point"}
+}
